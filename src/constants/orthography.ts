@@ -1,7 +1,7 @@
 import { CONFIG } from './config'
 
 export const ORTHOGRAPHY = [
-'kh',
+'kh',  
 'k',
 'gh',
 'g',
